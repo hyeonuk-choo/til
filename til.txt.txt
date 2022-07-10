@@ -1,0 +1,15 @@
+1. 앞으로 git 프로젝트로 만들고 싶은 것 
+- 기존에 나와있는 유명한 웹서비스들을 클론코딩 많이 해보기
+
+2. 1주차 주요 개념 키워드 적어보기
+- 버전관리: commit, history를 통해 버전이 달라지는 것을 확인 및 관리
+- git 초기화(git initailize):  내컴퓨터에서 만든프로젝트를 git으로 관리되는 프로젝트로 만든다. 
+				내컴퓨터상에 프로젝트를 git 프로젝트로 설정하는 것을 git 초기화(initialze, init) 라고한다.
+- commit: 누가, 언제, 기존과 달리 무엇이 수정됬는지를 정보를 포함하여, 현재상태를 저장하는 것.'
+- add/staging:  commit에 반영할지 안할지 사전에 파일을 선택하는 것.
+- history: commit 한 순서, 말 그대로 commit의 지금까지의 변화해온 역사.
+- repo(repository): git으로 관리되는 프로젝트를 git에서는 'repo(repository)'라고 부른다. 내컴퓨터에 저장되어있는 repo를 '로컬repo', github 처럼
+다른 공간에 접속할 수 있는 곳에 저장되있는 것을 '원격repo'라고한다.
+- tracking: 로컬repo와 원격repo를 연결한다.
+- push/pull: push는 로컬repo를 원격repo에 반영해서 업로드하는 것, pull은 원격repo의 commit들을 로컬repo로 받아서 업데이트 하는 것.
+- clone: 원격 repo를 내컴퓨터에 가져와서 초기repo를 세팅하는 것.
